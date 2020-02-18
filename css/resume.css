@@ -178,7 +178,7 @@ a:hover, a:focus, a:active {
 .dashboard-container {
     position: relative;
     overflow: hidden;
-    padding-top:INSERT YOUR RATIO PERCENTAGE;
+    padding-top:75%;
 }
 .dashboard-iframe {
     position: absolute;
